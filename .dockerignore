@@ -1,0 +1,7 @@
+node_modules
+test
+.eslintrc.js
+.gitignore
+.prettierrc
+*.spec.ts
+README.md
