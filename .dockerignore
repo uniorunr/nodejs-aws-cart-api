@@ -1,8 +1,8 @@
 # node modules will be installed during the build generation
-node_modules
+**/node_modules
 
 # dist folder will be created during the build generation
-dist
+**/dist
 
 # test files won't be included in the build
 test
