@@ -1,0 +1,17 @@
+# node modules will be installed during the build generation
+**/node_modules
+
+# dist folder will be created during the build generation
+**/dist
+
+# test files won't be included in the build
+test
+*.spec.ts
+
+# config files won't be included in the build
+.eslintrc.js
+.gitignore
+.prettierrc
+
+# the same, no code here
+README.md
